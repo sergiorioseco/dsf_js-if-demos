@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+section {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  background-color: #119da4;
+  color: white;
+}
+
+.card {
+  width: 30vh;
+  height: auto;
+}
+
+.col {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

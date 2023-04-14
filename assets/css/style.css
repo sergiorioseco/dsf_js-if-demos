@@ -1,0 +1,18 @@
+body {
+  background-color: #c4b7cb;
+}
+
+section {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.col {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
